@@ -115,7 +115,7 @@
       sourceBadge: "법령 118개 검증",
       btnInquiry: "공식 문의 허브",
       urgentBadge: "2026.11.28 시행 개정 경보 (F2026L01503):",
-      urgentText: "2026년 11월 28일 이후 접수되는 관광·상용(600)·ETA(601)·eVisitor(651) 비자에 Condition 8503(국내 추가 신청 금지)이 강제 부착됩니다. (NOICC 소명 5영업일 · ART 재심 28역일 불변)",
+      urgentText: "2026년 11월 28일 이후 접수되는 방문비자(600 전 스트림: 관광·상용·동포·친척방문·상용빈번 등)·ETA(601)·eVisitor(651)에 Condition 8503(국내 추가 신청 금지)이 강제 부착됩니다. (NOICC 소명 5영업일 · ART 재심 28역일 불변)",
       urgentLink: "8503 상세·예외 보기 →",
       heroEyebrow: "MIGRATION REGULATIONS 1994 · SCHEDULE 8 (118 CLAUSES) & SCHEDULE 2 DIVISION .6",
       heroTitle: "호주 비자 컨디션(8101–8626) 법령 원문 · 박앤코의 쉬운 해설",
@@ -184,7 +184,7 @@
       sourceBadge: "118 Verified",
       btnInquiry: "Enquiry Hub",
       urgentBadge: "28 Nov 2026 Reform Alert (F2026L01503):",
-      urgentText: "Applications lodged on or after 28 Nov 2026 for Visitor (600 Tourist & Business), ETA (601), and eVisitor (651) visas will carry MANDATORY Condition 8503 (No Further Stay). (NOICC 5 working days · ART 28 calendar days non-extendable)",
+      urgentText: "Applications lodged on or after 28 Nov 2026 across all Subclass 600 streams (Tourist, Business, Sponsored Family, Frequent Traveller & ADS), ETA (601), and eVisitor (651) carry MANDATORY Condition 8503 (No Further Stay). (NOICC 5 working days · ART 28 calendar days non-extendable)",
       urgentLink: "Inspect 8503 & Waivers →",
       heroEyebrow: "MIGRATION REGULATIONS 1994 · SCHEDULE 8 (118 CLAUSES) & SCHEDULE 2 DIVISION .6",
       heroTitle: "Australian Visa Conditions (8101–8626): Statutory Text & Plain-Language Explorer",
@@ -848,10 +848,10 @@
     const isEn = state.lang === "en";
     const cards = [
       {
-        title: isEn ? "1. Visitor 600/601/651 Mandatory 8503 (28 Nov 2026)" : "1. 관광(600)·ETA(601)·eVisitor(651) 8503 강제화 (2026.11.28 시행)",
+        title: isEn ? "1. Visitor 600/601/651 Mandatory 8503 (28 Nov 2026)" : "1. 방문비자(600 전 스트림)·ETA(601)·eVisitor(651) 8503 강제화 (2026.11.28 시행)",
         body: isEn
-          ? "F2026L01503 makes Condition 8503 mandatory for Visitor (Tourist & Business), ETA (601), and eVisitor (651) applications lodged on or after 28 Nov 2026. Home Affairs' interactive dropdown has not yet reflected this reform."
-          : "F2026L01503 개정령에 따라 2026.11.28 이후 접수되는 600(관광·상용)·601(ETA)·651(eVisitor) 비자에 8503(국내 추가 신청 금지)이 강제 부착됩니다. 이민성 웹 도구에는 아직 반영되지 않았습니다."
+          ? "F2026L01503 makes Condition 8503 mandatory across all Subclass 600 streams (Tourist, Business, Sponsored Family, Frequent Traveller & ADS), ETA (601), and eVisitor (651) applications lodged on or after 28 Nov 2026. Home Affairs' interactive dropdown has not yet reflected this reform."
+          : "F2026L01503 개정령에 따라 2026.11.28 이후 접수되는 600(관광·상용·동포/친척방문·상용빈번 등 전 스트림)·601(ETA)·651(eVisitor) 비자에 8503(국내 추가 신청 금지)이 강제 부착됩니다. 이민성 웹 도구에는 아직 반영되지 않았습니다."
       },
       {
         title: isEn ? "2. Condition 8104 Contradiction (40 hrs vs 48 hrs)" : "2. Condition 8104 이민성 안내 자체 모순 (40시간 vs 48시간)",
@@ -899,9 +899,9 @@
     setHref("cta-handoff-crisis", "https://changa9090.github.io/parkco-visa-crisis-navigator/?lang=ko", "https://changa9090.github.io/parkco-visa-crisis-navigator/?lang=en");
     setHref("cta-handoff-consult", "https://parklawyers.com.au/links/?lang=ko", "https://parklawyers.com.au/links/?lang=en");
 
-    if (window.ParkCoHandoff && typeof window.ParkCoHandoff.setProfile === "function") {
+    if (window.ParkCoHandoff && typeof window.ParkCoHandoff.saveSharedProfile === "function") {
       try {
-        window.ParkCoHandoff.setProfile({
+        window.ParkCoHandoff.saveSharedProfile({
           source_tool: "visa-conditions-explorer",
           visa: visaCode,
           topic: qNote,
