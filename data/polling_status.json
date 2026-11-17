@@ -1,0 +1,59 @@
+{
+  "generated_at_utc": "2026-11-17T11:21:06Z",
+  "verified_count": 5,
+  "total_count": 5,
+  "frl_compilation": "F2026C01194 (C291)",
+  "schedule8_count": 118,
+  "sources": [
+    {
+      "id": "frl_migration_regs_vol1",
+      "title_ko": "호주 연방 법령 등록부(FRL) · Migration Regulations 1994 Vol 1 (reg 1.03 · reg 2.05)",
+      "title_en": "Federal Register of Legislation · Migration Regulations 1994 Vol 1 (reg 1.03 & 2.05)",
+      "url": "https://www.legislation.gov.au/F1996B03551/2026-11-03/2026-11-03/text/original/word/1",
+      "sha256": "238240aa3ac8f4a1e4eceb9e2aa19ee4ed6a2a5e0b02a07a3febb6a8bdfcdf50",
+      "status": "verified",
+      "effective_date": "2026-11-03",
+      "checked_at_utc": "2026-11-17T11:21:06Z"
+    },
+    {
+      "id": "frl_migration_regs_vol2",
+      "title_ko": "호주 연방 법령 등록부(FRL) · Migration Regulations 1994 Vol 2 (Schedule 2 Div .6)",
+      "title_en": "Federal Register of Legislation · Migration Regulations 1994 Vol 2 (Schedule 2 Div .6)",
+      "url": "https://www.legislation.gov.au/F1996B03551/2026-11-03/2026-11-03/text/original/word/2",
+      "sha256": "ca59c0639d317047febc20a57e14f9448bd057b3e49766725e1a2f1c9ed3ba80",
+      "status": "verified",
+      "effective_date": "2026-11-03",
+      "checked_at_utc": "2026-11-17T11:21:06Z"
+    },
+    {
+      "id": "frl_migration_regs_vol3",
+      "title_ko": "호주 연방 법령 등록부(FRL) · Migration Regulations 1994 Vol 3 (Schedule 8 118개 전수 조항)",
+      "title_en": "Federal Register of Legislation · Migration Regulations 1994 Vol 3 (All 118 Schedule 8 Clauses)",
+      "url": "https://www.legislation.gov.au/F1996B03551/2026-11-03/2026-11-03/text/original/word/3",
+      "sha256": "4878e7eec8ba354cdefd5c29b544527e419195042e308ea824afa87a70f03064",
+      "status": "verified",
+      "effective_date": "2026-11-03",
+      "checked_at_utc": "2026-11-17T11:21:06Z"
+    },
+    {
+      "id": "frl_visitor_further_stay_2026",
+      "title_ko": "F2026L01503 · 방문·ETA·eVisitor 8503 강제화 개정령 (2026.11.28 시행)",
+      "title_en": "F2026L01503 · Preventing Further Stay for Visitor Visas Regulations 2026 (Commences 28 Nov 2026)",
+      "url": "https://www.legislation.gov.au/F2026L01503/asmade/text",
+      "sha256": "740303b4fe8e762d00258bf5dd97d5566e2719b6316d0448ef4f415faf2ab8ce",
+      "status": "verified",
+      "effective_date": "2026-11-28",
+      "checked_at_utc": "2026-11-17T11:21:06Z"
+    },
+    {
+      "id": "dha_visa_conditions_api",
+      "title_ko": "호주 이민성(Home Affairs) 비자 컨디션 공시 API (괴리 대조용 스냅샷)",
+      "title_en": "Department of Home Affairs Live Visa Conditions API (Drift Audit Snapshot)",
+      "url": "https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/overview",
+      "sha256": "91eca47c325492cbdaf1d487eb4a0b0e2941efc751eef9c559da2e14b5fde9a0",
+      "status": "verified",
+      "effective_date": "2026-11-17",
+      "checked_at_utc": "2026-11-17T11:21:06Z"
+    }
+  ]
+}

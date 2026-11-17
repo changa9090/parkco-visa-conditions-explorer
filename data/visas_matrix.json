@@ -1,0 +1,4111 @@
+{
+  "generated_at_utc": "2026-11-17T11:03:33Z",
+  "frl_compilation": "F2026C01194",
+  "count": 84,
+  "visas": [
+    {
+      "subclass": "010",
+      "name_en": "Bridging Visa A (Subclass 010 · Hidden on DHA Dropdown)",
+      "name_ko": "브리징 비자 A (Subclass 010 · 이민성 웹 비표시)",
+      "group": "bridging",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8102",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8103",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8104",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8105",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8107",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8108",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8111",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8112",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8114",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8115",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8539",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8547",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8549",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8607",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8608",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8101",
+        "8102",
+        "8103",
+        "8104",
+        "8105",
+        "8107",
+        "8108",
+        "8111",
+        "8112",
+        "8114",
+        "8115",
+        "8303",
+        "8501",
+        "8539",
+        "8547",
+        "8549",
+        "8607",
+        "8608"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "010.6—Conditions\n010.611\n(1)In the case of a visa granted to a noncitizen who:\n(a)satisfies the criterion in subclause 010.211(4); or\n(b)is an applicant for a protection visa who:\n(i)is not a person described in subclause (2); or\n(ii)satisfies the criterion in subclause 010.211(2); or\n(c)is a person in a class of persons specified by the Minister by an instrument in writing for this paragraph;\nNil.\n(2)In the case of a visa granted to a noncitizen who:\n(a)applies for a protection visa; and\n(b)satisfies the criterion in subclause 010.211(3);\ncondition 8101, if that condition applied to the last visa held by the holder.\n(3)In the case of a visa granted under regulation 2.21A to a person mentioned in subregulation 2.21A(1): Nil.\n(3A)In the case of a visa granted to a noncitizen who meets the requirements of subclause 010.211(2) or (3) on the basis of a valid application for a Skilled (Provisional) (Class VC) visa in relation to which the applicant met the requirements for subitem 1229(4) of Schedule 1: condition 8501.\n(3B)In the case of a visa granted to a person who meets the requirements of subclause 010.211(2) or (3) on the basis of a valid application for:\n(a)a Business Skills—Business Talent (Permanent) (Class EA) visa; or\n(b)a Business Skills (Provisional) (Class EB) visa; or\n(c)a Business Skills (Permanent) (Class EC) visa; or\n(d)an Employer Nomination (Permanent) (Class EN) visa; or\n(da)a Skilled Employer Sponsored Regional (Provisional) (Class PE) visa; or\n(db)a Skilled Work Regional (Provisional) (Class PS) visa; or\n(e)a Regional Employer Nomination (Permanent) (Class RN) visa; or\n(f)a Skilled—Independent (Permanent) (Class SI) visa; or\n(g)a Skilled—Nominated (Permanent) (Class SN) visa; or\n(h)a Skilled—Regional Sponsored (Provisional) (Class SP) visa; or\n(i)a Skilled (Residence) (Class VB) visa;\nnil.\n(3C)In the case of a visa granted to a person who meets the requirements of subclause 010.211(2) or (3) on the basis of:\n(a)making a valid application for a Subclass 457 (Temporary Work (Skilled)) visa; and\n(b)holding a Subclass 457 visa (the first visa) at the time of making the application mentioned in paragraph (a);\n8107 (if the first visa is subject to that condition) and 8501 (if the first visa is subject to that condition).\n(3D)In the case of a visa granted to a person who meets the requirements of subclause 010.211(2) or (3) on the basis of:\n(a)making a valid application for a Subclass 482 (Temporary Skill Shortage) visa or a Subclass 482 (Skills in Demand) visa; and\n(b)holding a Subclass 457 (Temporary Work (Skilled)) visa, a Subclass 482 (Skills in Demand) visa or a Subclass 482 (Temporary Skill Shortage) visa (the first visa) at the time of making the application mentioned in paragraph (a);\nthe following conditions:\n(c)if the first visa was subject to condition 8107—condition 8107;\n(d)if the first visa was subject to condition 8501—condition 8501;\n(e)if the first visa was subject to condition 8607—condition 8607.\n(3E)In the case of a visa granted to a person:\n(a)who meets the requirements of subclause 010.211(2) or (3) on the basis of making a valid application for a Subclass 103 (Parent) visa or a Subclass 143 (Contributory Parent) visa; and\n(b)who is seeking to meet the requirements of subclause 103.214(2), 103.313(2), 143.214(2) or 143.313(2);\nthe following conditions:\n(c)condition 8104—but only if the condition applied to the most recent substantive visa held by the person;\n(d)condition 8303—but only if the condition applied to the most recent substantive visa held by the person;\n(e)condition 8501.\n(4)In any other case: whichever of conditions 8101, 8102, 8103, 8104, 8105, 8107, 8108, 8111, 8112, 8114, 8115, 8539, 8547, 8549, 8607 and 8608 applies to:\n(a)the visa held by the holder:\n(i)at the time of application; or\n(ii)if the bridging visa is granted under regulation 2.21A to a person mentioned in subregulation 2.21A(2) or (3), or under regulation 2.21B—at the time of grant; or\n(b)if the visa mentioned in subparagraph (a)(i) has ceased, or no visa is held by the holder at the time of grant—the last Bridging A (Class WA) or Bridging B (Class WB) visa held by the holder."
+    },
+    {
+      "subclass": "020",
+      "name_en": "Bridging Visa B (Subclass 020 · Hidden on DHA Dropdown)",
+      "name_ko": "브리징 비자 B (Subclass 020 · 이민성 웹 비표시)",
+      "group": "bridging",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8102",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8103",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8104",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8105",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8107",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8108",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8111",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8112",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8114",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8115",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8539",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8547",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8549",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8607",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8608",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8101",
+        "8102",
+        "8103",
+        "8104",
+        "8105",
+        "8107",
+        "8108",
+        "8111",
+        "8112",
+        "8114",
+        "8115",
+        "8303",
+        "8501",
+        "8539",
+        "8547",
+        "8549",
+        "8607",
+        "8608"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "020.6—Conditions\n020.611\n(1)In the case of a visa granted to a noncitizen who is either:\n(a)an applicant for a protection visa who:\n(i)is not a person described in subclause (2) or (2A); or\n(ii)satisfies the criterion in subclause 020.212(2); or\n(b)a person in a class of persons specified by the Minister by an instrument in writing for this paragraph;\nNil.\n(2)In the case of a visa granted to a noncitizen who:\n(a)applies for a protection visa; and\n(b)satisfies the criterion in subclause 020.212(3);\ncondition 8101, if that condition applied to the last visa held by the holder.\n(3)In the case of a visa granted to a person who meets the requirements of subclause 020.212(2) or (3) on the basis of a valid application for a Skilled (Provisional) (Class VC) visa in relation to which the applicant met the requirements for subitem 1229(4) of Schedule 1: condition 8501.\n(4)In the case of a visa granted to a noncitizen who meets the requirements of subclause 020.212(2) or (3) on the basis of a valid application for:\n(a)a Business Skills—Business Talent (Permanent) (Class EA) visa; or\n(b)a Business Skills (Provisional) (Class EB) visa; or\n(c)a Business Skills (Permanent) (Class EC) visa; or\n(d)an Employer Nomination (Permanent) (Class EN) visa; or\n(da)a Skilled Employer Sponsored Regional (Provisional) (Class PE) visa; or\n(db)a Skilled Work Regional (Provisional) (Class PS) visa; or\n(e)a Regional Employer Nomination (Permanent) (Class RN) visa; or\n(f)a Skilled—Independent (Permanent) (Class SI) visa; or\n(g)a Skilled—Nominated (Permanent) (Class SN) visa; or\n(h)a Skilled—Regional Sponsored (Provisional) (Class SP) visa; or\n(i)a Skilled (Residence) (Class VB) visa;\nnil.\n(4A)In the case of a visa granted to a person on the basis of:\n(a)making a valid application for a Subclass 457 (Temporary Work (Skilled)) visa; and\n(b)holding a Subclass 457 visa (the first visa) at the time of making the application mentioned in paragraph (a);\n8107 (if the first visa is subject to that condition) and 8501 (if the first visa is subject to that condition).\n(4B)In the case of a visa granted to a person on the basis of:\n(a)making a valid application for a Subclass 482 (Temporary Skill Shortage) visa or a Subclass 482 (Skills in Demand) visa; and\n(b)holding a Subclass 457 (Temporary Work (Skilled)) visa, a Subclass 482 (Skills in Demand) visa or a Subclass 482 (Temporary Skill Shortage) visa (the first visa) at the time of making the application mentioned in paragraph (a);\nthe following conditions:\n(c)if the first visa was subject to condition 8107—condition 8107;\n(d)if the first visa was subject to condition 8501—condition 8501;\n(e)if the first visa was subject to condition 8607—condition 8607.\n(4C)In the case of a visa granted to a person:\n(a)who meets the requirements of subclause 020.212(2) or (3) on the basis of making a valid application for a Subclass 103 (Parent) visa or a Subclass 143 (Contributory Parent) visa; and\n(b)who is seeking to meet the requirements of subclause 103.214(2), 103.313(2), 143.214(2) or 143.313(2);\nthe following conditions:\n(c)condition 8104—but only if the condition applied to the most recent substantive visa held by the person;\n(d)condition 8303—but only if the condition applied to the most recent substantive visa held by the person;\n(e)condition 8501.\n(5)In any other case—whichever of conditions 8101, 8102, 8103, 8104, 8105, 8107, 8108, 8111, 8112, 8114, 8115, 8539, 8547, 8549, 8607 and 8608 applies to the bridging visa held by the holder at the time of application."
+    },
+    {
+      "subclass": "030",
+      "name_en": "Bridging C (Subclass 030)",
+      "name_ko": "Bridging C (Subclass 030)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8101",
+        "8303",
+        "8501"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "030.6—Conditions\n030.611\nIn the case of a visa granted to an applicant who meets the requirements of subclause 030.212(3):\n(a)if condition 8303 applies to the Bridging C (Class WC) visa held by the applicant—condition 8303; or\n(b)if condition 8501 applies to the Bridging C (Class WC) visa held by the applicant—condition 8501; or\n(c)in any other case—nil.\n030.612\nIn the case of a visa granted to a noncitizen who:\n(a)applies for a protection visa; and\n(b)meets the requirements of subclause 030.212(5);\ncondition 8101 if that condition applied to the last visa held by the holder.\n030.613\n(1)In the case of a visa granted to a person on the basis of a valid application for:\n(a)a Business Skills—Business Talent (Permanent) (Class EA) visa; or\n(b)a Business Skills (Provisional) (Class EB) visa; or\n(c)a Business Skills (Permanent) (Class EC) visa; or\n(d)an Employer Nomination (Permanent) (Class EN) visa; or\n(da)a Skilled Employer Sponsored Regional (Provisional) (Class PE) visa; or\n(db)a Skilled Work Regional (Provisional) (Class PS) visa; or\n(e)a Regional Employer Nomination (Permanent) (Class RN) visa; or\n(f)a Skilled—Independent (Permanent) (Class SI) visa; or\n(g)a Skilled—Nominated (Permanent) (Class SN) visa; or\n(h)a Skilled—Regional Sponsored (Provisional) (Class SP) visa;\nnil.\n(2)In the case of a visa granted to a person:\n(a)on the basis of making a valid application for a Subclass 103 (Parent) visa or a Subclass 143 (Contributory Parent) visa; and\n(b)who is seeking to meet the requirements of subclause 103.214(2), 103.313(2), 143.214(2) or 143.313(2);\nthe following conditions:\n(c)conditions 8101 and 8501;\n(d)condition 8303—but only if the condition applied to the most recent substantive visa held by the person.\n030.614\nIn any other case, condition 8101."
+    },
+    {
+      "subclass": "040",
+      "name_en": "Bridging (Prospective Applicant) (Subclass 040)",
+      "name_ko": "Bridging (Prospective Applicant) (Subclass 040)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8101"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "040.6—Conditions\n040.611\nCondition 8101."
+    },
+    {
+      "subclass": "041",
+      "name_en": "Bridging (Nonapplicant) (Subclass 041)",
+      "name_ko": "Bridging (Nonapplicant) (Subclass 041)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8401",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8101",
+        "8401"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "041.6—Conditions\n041.611\nConditions 8101 and 8401."
+    },
+    {
+      "subclass": "050",
+      "name_en": "Bridging Visa E General (Subclass 050 · Hidden on DHA Dropdown)",
+      "name_ko": "브리징 비자 E (Subclass 050 · 이민성 웹 비표시)",
+      "group": "bridging",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8103",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8104",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8116",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8207",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8401",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8402",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8505",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8506",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8509",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8548",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8566",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8101",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8104",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8116",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8207",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8401",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8402",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8505",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8506",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8507",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8508",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8509",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8510",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8511",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8512",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8513",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8514",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8548",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8549",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8550",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8551",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8552",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8553",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8554",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8555",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8556",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8560",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8562",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8563",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8564",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8566",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8578",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8101",
+        "8103",
+        "8104",
+        "8116",
+        "8201",
+        "8207",
+        "8303",
+        "8401",
+        "8402",
+        "8501",
+        "8505",
+        "8506",
+        "8507",
+        "8508",
+        "8509",
+        "8510",
+        "8511",
+        "8512",
+        "8513",
+        "8514",
+        "8548",
+        "8549",
+        "8550",
+        "8551",
+        "8552",
+        "8553",
+        "8554",
+        "8555",
+        "8556",
+        "8560",
+        "8562",
+        "8563",
+        "8564",
+        "8566",
+        "8578"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "050.6—Conditions\n050.611\nIn the case of a visa granted to a noncitizen who:\n(a)either:\n(i)applied for a substantive visa at the same time and on the same form as he or she applied for the bridging visa; or\n(ii)applied for a substantive visa in respect of which the bridging visa is granted under regulation 2.21B; and\n(b)is not in immigration detention; and\n(c)held a Bridging E (Class WE) visa at the time when he or she made the application for the substantive visa;\nwhichever of conditions 8101, 8104, 8201, 8207, 8401, 8402, 8505, 8506 and 8548 apply to that bridging visa.\n050.611B\nIn the case of a visa granted to an unlawful noncitizen to whom subclause 050.222(3) applies:\n(a)condition 8401 must be imposed; and\n(b)any 1 or more of conditions 8101, 8104, 8201, 8207, 8505, 8506 and 8548 may be imposed.\n050.612\nIn the case of a visa that is taken to have been granted by operation of section 75 of the Act—conditions 8101, 8201, 8402, 8506, 8509 and 8548.\n050.612A\n(1)This clause applies to a visa that is granted to an applicant:\n(a)who meets the requirements of 1 or more of the following:\n(i)subparagraph 050.212(3A)(b)(i);\n(ii)subparagraph 050.212(3A)(b)(ii);\n(iii)paragraph 050.212(4)(a);\n(iv)paragraph 050.212(4)(aa);\n(v)paragraph 050.212(4)(d);\n(vi)subclause 050.212(4AA);\n(viia)subclause 050.212(6AA);\n(viii)subclause 050.212(9); and\n(b)who does not meet the requirements of subclause 050.212(5B), (6) or (6A); and\n(c)to whom subclause 050.614(1) does not apply.\n(2)Condition 8101 must be imposed.\n(3)Any 1 or more of conditions 8201, 8207, 8401, 8505, 8506, 8507, 8508, 8510, 8511, 8512 and 8548 may be imposed.\n050.612B\nIn the case of a visa granted to an applicant who meets the requirements of subclause 050.212(4AAA) or (4AB): Nil.\n050.613\n(1)In the case of a visa (other than a visa to which clause 050.616B applies) granted to an applicant who meets the requirements of subclause 050.212(6A) or (8)—any 1 or more of conditions 8201, 8207, 8401, 8505, 8506, 8507, 8508, 8510, 8511, 8512, 8548, 8564 and 8566 may be imposed.\n(2)Despite anything in the other provisions of this Division, those provisions do not apply in relation to a visa to which subclause (1) applies.\nNote:This means that the only conditions that may be imposed on such a visa are those conditions set out in subclause (1).\n050.613A\n(1)In the case of a visa (other than a visa to which clause 050.613, 050.616A or 050.616B applies) granted to an applicant who:\n(a)applies for a protection visa; and\n(b)is not in a class of persons specified by the Minister by instrument in writing for this paragraph;\ncondition 8101, unless condition 8116 is imposed.\n(2)If the visa is a visa to which subclause (1) applies, any 1 or more of conditions 8116, 8201, 8207, 8401, 8505, 8506, 8507, 8508, 8510, 8511, 8512, 8548, 8564 and 8566 may be imposed.\n(3)Condition 8116 must not be imposed unless the applicant is in a class of persons specified by the Minister, by legislative instrument, for this subclause.\n(4)Despite anything in the other provisions of this Division, those provisions do not apply in relation to a visa to which subclause (1) applies.\nNote:This means that the only conditions that are, or may be, imposed on such a visa are those conditions set out in subclauses (1) and (2).\n050.614\n(1)In the case of a visa granted to an applicant who:\n(a)is an applicant for a protection visa; and\n(b)meets the requirements of subclause 050.212(3A), (4), (4AA) or (4A);\nif condition 8101 or 8116 applied to the last visa held by the applicant, that condition.\n(2)Any 1 or more of conditions 8104, 8201, 8207, 8401, 8402, 8505, 8506, 8507, 8508, 8509, 8510, 8511, 8512 and 8548 may be imposed.\n050.615\n(1)In the case of a visa granted to an applicant who:\n(a)meets the requirements of subclause 050.212(5B) or (6); and\n(b)was not an unlawful noncitizen after the application for a substantive visa was finally determined up until the time of the request for the Minister:\n(i)to substitute a more favourable decision under section 351, or repealed section 417, of the Act; or\n(ii)to make a determination under section 48B of the Act;\nif condition 8101 or 8116 applied to the last visa held by the applicant, that condition.\n(2)Any 1 or more of conditions 8201, 8207, 8401, 8505, 8506, 8507, 8508, 8510, 8511, 8512 and 8548 may be imposed.\n050.615A\n(1)In the case of a visa granted to an applicant who:\n(a)meets the requirements of subclause 050.212(5B) or (6); and\n(b)was an unlawful noncitizen for all or part of the period after the application for a substantive visa was finally determined until the time of the request for the Minister:\n(i)to substitute a more favourable decision under section 351, or repealed section 417, of the Act; or\n(ii)to make a determination under section 48B of the Act;\ncondition 8101, unless condition 8116 is imposed.\n(2)Any 1 or more of conditions 8116, 8201, 8207, 8401, 8505, 8506, 8507, 8508, 8510, 8511, 8512 and 8548 may be imposed.\n(3)Condition 8116 must not be imposed unless the applicant is in a class of persons specified by the Minister, by legislative instrument, for this subclause.\n050.616A\n(1)In the case of a visa granted under section 195A of the Act—any one or more of conditions 8101, 8104, 8116, 8201, 8207, 8303, 8401, 8402, 8505, 8506, 8507, 8508, 8510, 8511, 8512, 8514, 8548, 8550, 8551, 8552, 8553, 8554, 8555, 8556, 8560, 8562, 8563, 8564, 8566 and 8578 may be imposed.\n(2)Condition 8116 must not be imposed unless the holder of the visa is in a class of persons specified by the Minister, by legislative instrument, for this subclause.\n(3)Despite anything in the other provisions of this Division, those provisions do not apply in relation to a visa to which subclause (1) applies.\nNote:This means that the only conditions that may be imposed on such a visa are those conditions set out in subclause (1).\n050.616B\n(1)In the case of:\n(a)a visa granted under regulation 2.24A; or\n(b)a visa (other than a visa granted under section 195A of the Act) granted to an applicant in respect of whom:\n(i)a weapons of mass destruction determination has been made; and\n(ii)the Foreign Minister, or a person authorised by the Foreign Minister, has not subsequently determined that the applicant is no longer a person whose presence in Australia may be directly or indirectly associated with the proliferation of weapons of mass destruction;\nthe following:\n(c)conditions 8103 and 8207;\n(d)any 1 or more of conditions 8501, 8303, 8549, 8401, 8402, 8505, 8506, 8507, 8508, 8509, 8510, 8511, 8512, 8513, 8514, 8550, 8552, 8553, 8554, 8555, 8556, 8560, 8563, 8564, 8566 and 8578 may be imposed.\n(2)Despite anything in the other provisions of this Division, those provisions do not apply in relation to a visa to which subclause (1) applies.\nNote:This means that the only conditions that are, or may be, imposed on such a visa are those conditions set out in subclause (1).\n050.617\n(1)In any other case—any 1 or more of conditions 8101, 8104, 8116, 8201, 8207, 8401, 8402, 8505, 8506, 8507, 8508, 8510, 8511, 8512 and 8548 may be imposed.\n(2)Condition 8116 must not be imposed unless the applicant is in a class of persons specified by the Minister, by legislative instrument, for this subclause.\n050.618\nIn addition to any other condition imposed by another provision of this Division, condition 8564 may be imposed.\n050.619\nIn addition to any other condition imposed by another provision of this Division, if the person to whom the visa would be granted has signed a code of behaviour that is in effect for the visa, condition 8566 must be imposed.\nNote 1:A Subclass 050 visa may be granted with or without an application (for example, see regulation 2.25).\nNote 2:The requirement to sign a code of behaviour may be imposed by public interest criterion 4022 or in accordance with section 195A of the Act.\n050.620\nIn addition to any other condition imposed by another provision of this Division, if:\n(a)the person to whom the visa would be granted is an applicant for a Subclass 103 (Parent) visa or a Subclass 143 (Contributory Parent) visa; and\n(b)the person is seeking to meet the requirements of subclause 103.214(2), 103.313(2), 143.214(2) or 143.313(2);\nthe following apply:\n(c)condition 8303 must be imposed if that condition applied to the last substantive visa held by the applicant;\n(d)condition 8501 may be imposed."
+    },
+    {
+      "subclass": "051",
+      "name_en": "Bridging (Protection Visa Applicant) (Subclass 051)",
+      "name_ko": "Bridging (Protection Visa Applicant) (Subclass 051)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8116",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8402",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8506",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8513",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8101",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8104",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8116",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8401",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8505",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8506",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8507",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8508",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8510",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8511",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8512",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8564",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8101",
+        "8104",
+        "8116",
+        "8201",
+        "8401",
+        "8402",
+        "8505",
+        "8506",
+        "8507",
+        "8508",
+        "8510",
+        "8511",
+        "8512",
+        "8513",
+        "8564"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "051.6—Conditions\n051.611\nIn the case of a visa that is taken to have been granted by operation of section 75 of the Act—conditions 8101, 8201, 8402, 8506 and 8513.\n051.611A\n(1)In the case of a visa granted to an applicant (whether or not the applicant is an applicant to which any other clause in this Division applies) who:\n(a)applies for a protection visa; and\n(b)has been in Australia for a period of 45 days or more, or for periods totalling 45 days or more, (not including any day for part of which the applicant was not in Australia) in the 12 months immediately before the date of that application; and\n(c)is not within a class of persons specified in a legislative instrument made by the Minister for the purposes of this paragraph;\ncondition 8101, unless condition 8116 is imposed.\n(2)If the applicant is an applicant to whom subclause (1) and clause 051.611 applies—conditions 8101, 8201, 8402, 8506 and 8513.\n(3)In addition, if the applicant is an applicant to whom subclause (1) applies, any 1 or more of conditions 8104, 8116, 8201, 8401, 8505, 8506, 8507, 8508, 8510, 8511 and 8512 may be imposed.\n(4)Condition 8116 must not be imposed unless the applicant is in a class of persons specified by the Minister, by legislative instrument, for this subclause.\n051.612\n(1)In any other case—any 1 or more of conditions 8101, 8104, 8116, 8201, 8401, 8505, 8506, 8507, 8508, 8510, 8511 and 8512 may be imposed.\n(2)Condition 8116 must not be imposed unless the applicant is in a class of persons specified by the Minister, by legislative instrument, for this subclause.\n051.613\nIn addition to any other condition imposed by another provision of this Division, condition 8564 may be imposed."
+    },
+    {
+      "subclass": "060",
+      "name_en": "Bridging F (Subclass 060)",
+      "name_ko": "Bridging F (Subclass 060)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8402",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8502",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8101",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8401",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8505",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8506",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8101",
+        "8401",
+        "8402",
+        "8502",
+        "8505",
+        "8506"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "060.6—Conditions\n060.611\nIn the case of a visa that is taken to have been granted by operation of section 75 of the Act—conditions 8101 and 8402.\n060.612\nIn any other case, any one or more of conditions 8101, 8401, 8505 and 8506 may be imposed.\n060.613\nIn addition to clauses 060.611 and 060.612, in the case of a visa that has been granted to a person who:\n(a)made the application for the visa in accordance with subregulation 2.20B(2); and\n(b)is the holder of the visa on the basis of satisfying the secondary criteria for the grant of the visa;\ncondition 8502 must be imposed."
+    },
+    {
+      "subclass": "070",
+      "name_en": "Bridging Visa R (Removal Pending) (Subclass 070)",
+      "name_ko": "브리징 비자 R (Subclass 070 · BVR)",
+      "group": "bridging",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8401",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8513",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8514",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8541",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8542",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8543",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8551",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8552",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8553",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8554",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8555",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8556",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8560",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8561",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8562",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8563",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8564",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8612",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8614",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8615",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8616",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8617",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8618",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8620",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8621",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8622",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8623",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8624",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8625",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8626",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8506",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8566",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8303",
+        "8401",
+        "8506",
+        "8513",
+        "8514",
+        "8541",
+        "8542",
+        "8543",
+        "8551",
+        "8552",
+        "8553",
+        "8554",
+        "8555",
+        "8556",
+        "8560",
+        "8561",
+        "8562",
+        "8563",
+        "8564",
+        "8566",
+        "8612",
+        "8614",
+        "8615",
+        "8616",
+        "8617",
+        "8618",
+        "8620",
+        "8621",
+        "8622",
+        "8623",
+        "8624",
+        "8625",
+        "8626"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "070.6—Conditions\n070.611\n(1)If the visa is not a visa that is taken to be granted under paragraph 76AA(2)(b) or (3)(c) of the Act:\n(a)conditions 8303, 8513, 8514, 8541, 8542 and 8543 must be imposed; and\n(b)condition 8401 must be imposed if condition 8621 is not imposed under subclause 070.612A(1).\n(2)If the visa is taken to be granted under paragraph 76AA(2)(b) or (3)(c) of the Act, conditions 8401, 8513, 8514, 8541, 8542, 8543, 8551, 8552, 8553, 8554, 8555, 8556, 8560, 8561, 8562, 8563, 8614 and 8625 must be imposed.\n070.612\nIf the Minister has granted the visa under section 195A of the Act or regulation 2.25AA or 2.25AB, conditions 8551, 8552, 8553, 8554, 8555, 8556, 8560, 8561, 8562, 8563, 8564, 8614, 8616 and 8625 must be imposed, in addition to any other condition imposed by or under another provision of this Division.\n070.612A\n(1)In this clause, each of the following conditions is a community protection condition:\n(a)condition 8617;\n(b)condition 8618;\n(c)condition 8612;\n(d)condition 8615;\n(e)condition 8626;\n(f)condition 8622;\n(g)condition 8623;\n(h)condition 8624:\n(i)condition 8621;\n(j)condition 8620.\nNote:The order in which the community protection conditions are listed is intentional: see subclause (3).\n(2)The Minister must impose a community protection condition if:\n(a)subclause (6) applies to the visa; and\n(b)despite the other conditions imposed on the visa by or under this subclause or another provision of this Division, the Minister is satisfied on the balance of probabilities that the holder poses a substantial risk of seriously harming any part of the Australian community by committing a serious offence; and\n(c)the Minister is satisfied on the balance of probabilities that the imposition of the condition (in addition to the other conditions imposed by or under this subclause or another provision of this Division) is:\n(i)reasonably necessary; and\n(ii)reasonably appropriate and adapted;\nfor the purpose of protecting any part of the Australian community from serious harm by addressing that substantial risk; and\n(d)for condition 8612, 8615, 8626, 8622 or 8623—the holder has been convicted of any one or more of the following offences:\n(i)an offence in which the victim was a minor or vulnerable person;\n(ii)an offence involving production, publication, possession, supply or sale of, or other dealing in, child abuse material (within the meaning of Part 10.6 of the Criminal Code);\n(iii)an offence that involves consenting to or procuring the employment of a child, or employing a child, in connection with material referred to in subparagraph (ii);\n(iv)an offence that involves acts done in preparation for, or to facilitate, the commission of a sexual offence against a person under 16; and\n(e)for condition 8624—the holder has been convicted of an offence involving violence or sexual assault.\nNote:See regulation 2.25AE for the period for which the visa is subject to a community protection condition (if imposed).\n(3)Subject to subclause (4), the order in which the community protection conditions are listed in subclause (1) is the order in which the Minister must decide whether or not to impose the condition on the visa.\nNote:The order in which the conditions are listed in subclause (1) is also the order required for the purposes of subsection 76E(4A) of the Act.\n(4)The Minister is not required to consider whether to impose a community protection condition mentioned in paragraph (2)(d) or (e) unless the holder has been convicted of an offence mentioned in that paragraph that requires the imposition of the condition.\nNote:For example, if the holder has not been convicted of an offence mentioned in paragraph (2)(d), the Minister:\n(a)must not impose community protection condition 8612, 8615, 8626, 8622 or 8623; and\n(b)is not required to consider whether or not to impose such a condition.\n(5)Community protection conditions imposed by or under this clause are in addition to any other condition imposed by or under another provision of this Division.\n(6)This subclause applies to a visa if:\n(a)the visa was granted under regulation 2.25AA and, at the time of grant, there was no real prospect of the removal of the holder from Australia becoming practicable in the reasonably foreseeable future; or\n(b)the visa was granted under regulation 2.25AB; or\n(c)the visa was granted under section 195A of the Act.\n(7)Nothing in this clause requires the Minister to decide whether or not to impose a community protection condition if the visa must, under subsection 76E(4) of the Act, be granted without it being subject to that condition.\n070.613\nIn addition to any other condition imposed by or under another provision of this Division, if the person to whom the visa would be granted has signed a code of behaviour that is in effect for the Subclass 050 (Bridging (General)) visa, condition 8566 may be imposed.\nNote:The requirement to sign a code of behaviour may be imposed in accordance with section 195A of the Act.\n070.614\nIf the visa is not a visa taken to be granted under paragraph 76AA(2)(b) or (3)(c) of the Act, condition 8506 may be imposed in addition to any other condition imposed by or under another provision of this Division."
+    },
+    {
+      "subclass": "100",
+      "name_en": "Partner (Subclass 100)",
+      "name_ko": "Partner (Subclass 100)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|primary+offshore_grant",
+            "discretionary|secondary+offshore_grant"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary+offshore_grant"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "100.6—Conditions\n100.611\nIf the applicant is outside Australia at the time of grant, first entry must be made before a date specified by the Minister for the purpose.\n100.612\nIf the applicant meets the primary criteria and is outside Australia at the time of the grant, condition 8502 may be imposed before the applicant’s first entry to Australia as the holder of the visa.\n100.613\nIf the applicant meets the secondary criteria and is outside Australia at the time of the grant, either or both of conditions 8502 and 8515 may be imposed before the applicant’s first entry to Australia as the holder of the visa."
+    },
+    {
+      "subclass": "101",
+      "name_en": "Child (Subclass 101)",
+      "name_ko": "Child (Subclass 101)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "101.6—Conditions\n101.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n101.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "102",
+      "name_en": "Adoption (Subclass 102)",
+      "name_ko": "Adoption (Subclass 102)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "102.6—Conditions\n102.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n102.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "103",
+      "name_en": "Parent (Subclass 103)",
+      "name_ko": "Parent (Subclass 103)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "103.6—Conditions\n103.611\nIf the applicant is outside Australia when the visa is granted, first entry must be made before a date specified by the Minister for the purpose.\n103.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "114",
+      "name_en": "Aged Dependent Relative (Subclass 114)",
+      "name_ko": "Aged Dependent Relative (Subclass 114)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "114.6—Conditions\n114.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n114.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "115",
+      "name_en": "Remaining Relative (Subclass 115)",
+      "name_ko": "Remaining Relative (Subclass 115)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "115.6—Conditions\n115.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n115.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "116",
+      "name_en": "Carer (Subclass 116)",
+      "name_ko": "Carer (Subclass 116)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "116.6—Conditions\n116.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n116.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "117",
+      "name_en": "Orphan Relative (Subclass 117)",
+      "name_ko": "Orphan Relative (Subclass 117)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "117.6—Conditions\n117.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n117.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "143",
+      "name_en": "Contributory Parent (Subclass 143)",
+      "name_ko": "Contributory Parent (Subclass 143)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "143.6—Conditions\n143.611\nIf the applicant is outside Australia when the visa is granted, first entry must be made before a date specified by the Minister for the purpose.\n143.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "151",
+      "name_en": "Former Resident (Subclass 151)",
+      "name_ko": "Former Resident (Subclass 151)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "151.6—Conditions\n151.611\nFor an applicant who was outside Australia at the time of application:\n(a)first entry must be made before a date specified by the Minister for the purpose; and\n(b)condition 8502 may be imposed.\nNote:No conditions have been prescribed for other applicants."
+    },
+    {
+      "subclass": "155",
+      "name_en": "Five Year Resident Return (Subclass 155)",
+      "name_ko": "Five Year Resident Return (Subclass 155)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "155.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "157",
+      "name_en": "Three Month Resident Return (Subclass 157)",
+      "name_ko": "Three Month Resident Return (Subclass 157)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "157.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "173",
+      "name_en": "Contributory Parent (Temporary) (Subclass 173)",
+      "name_ko": "Contributory Parent (Temporary) (Subclass 173)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "173.6—Conditions\n173.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n173.612\nEither or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "186",
+      "name_en": "Employer Nomination Scheme (Subclass 186)",
+      "name_ko": "고용주 영주권 ENS (Subclass 186)",
+      "group": "pr",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "186.6—Conditions\n186.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed."
+    },
+    {
+      "subclass": "187",
+      "name_en": "Regional Sponsored Migration Scheme (Subclass 187)",
+      "name_ko": "Regional Sponsored Migration Scheme (Subclass 187)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "187.6—Conditions\n187.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed."
+    },
+    {
+      "subclass": "188",
+      "name_en": "Business Innovation and Investment (Provisional) (Subclass 188)",
+      "name_ko": "Business Innovation and Investment (Provisional) (Subclass 188)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8557",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8571",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515",
+        "8557",
+        "8571"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "188.6—Conditions\n188.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed.\n188.611A\nIf a Subclass 188 visa in the Investor stream is granted to an applicant who was invited to apply for the visa on or after 1 July 2021, condition 8557 must be imposed.\n188.612\nIf the applicant is granted a Subclass 188 visa in the Significant Investor stream or the Significant Investor Extension stream, condition 8557 must be imposed.\n188.613\nIf the applicant is granted a Subclass 188 visa in the Entrepreneur stream, condition 8571 must be imposed."
+    },
+    {
+      "subclass": "189",
+      "name_en": "Skilled Independent (Subclass 189)",
+      "name_ko": "독립기술이민 (Subclass 189)",
+      "group": "pr",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "189.6—Conditions\n189.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed."
+    },
+    {
+      "subclass": "190",
+      "name_en": "Skilled Nominated (Subclass 190)",
+      "name_ko": "주정부 기술이민 (Subclass 190)",
+      "group": "pr",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "190.6—Conditions\n190.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed."
+    },
+    {
+      "subclass": "192",
+      "name_en": "Pacific Engagement (Subclass 192)",
+      "name_ko": "Pacific Engagement (Subclass 192)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "192.6—Conditions\n192.611\nIf the applicant is outside Australia when the visa is granted, first entry must be made before the date specified by the Minister."
+    },
+    {
+      "subclass": "200",
+      "name_en": "Refugee (Subclass 200)",
+      "name_ko": "Refugee (Subclass 200)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "200.6—Conditions\n200.611\nEntry must be made before the date specified by the Minister for the purpose.\n200.612\nCondition 8502 may be imposed."
+    },
+    {
+      "subclass": "201",
+      "name_en": "Incountry Special Humanitarian (Subclass 201)",
+      "name_ko": "Incountry Special Humanitarian (Subclass 201)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "201.6—Conditions\n201.611\nIf the applicant is outside Australia when the visa is granted, entry must be made before the date specified by the Minister for the purpose.\n201.612\nCondition 8502 may be imposed."
+    },
+    {
+      "subclass": "202",
+      "name_en": "Global Special Humanitarian (Subclass 202)",
+      "name_ko": "Global Special Humanitarian (Subclass 202)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "202.6—Conditions\n202.611\nEntry must be made before the date specified by the Minister for the purpose.\n202.612\nCondition 8502 may be imposed."
+    },
+    {
+      "subclass": "203",
+      "name_en": "Emergency Rescue (Subclass 203)",
+      "name_ko": "Emergency Rescue (Subclass 203)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "203.6—Conditions\n203.611\nEntry must be made before the date specified by the Minister for the purpose.\n203.612\nCondition 8502 may be imposed."
+    },
+    {
+      "subclass": "204",
+      "name_en": "Woman at Risk (Subclass 204)",
+      "name_ko": "Woman at Risk (Subclass 204)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "204.6—Conditions\n204.611\nEntry must be made before a date specified by the Minister for the purpose.\n204.612\nCondition 8502 may be imposed."
+    },
+    {
+      "subclass": "300",
+      "name_en": "Prospective Marriage (Subclass 300)",
+      "name_ko": "약혼 비자 (Subclass 300)",
+      "group": "family",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary",
+            "mandatory|primary"
+          ]
+        },
+        {
+          "code": "8519",
+          "contexts": [
+            "mandatory|primary"
+          ]
+        },
+        {
+          "code": "8520",
+          "contexts": [
+            "mandatory|secondary"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|primary",
+            "discretionary|secondary"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary",
+            "mandatory|primary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515",
+        "8519",
+        "8520"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "300.6—Conditions\n300.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n300.612\nIf the applicant satisfies the primary criteria, conditions 8515 and 8519.\n300.613\nIf the applicant satisfies the primary criteria, condition 8502 may be imposed.\n300.614\nIf the applicant satisfies the secondary criteria, condition 8520.\n300.615\nIf the applicant satisfies the secondary criteria, either or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "309",
+      "name_en": "Partner Provisional Offshore (Subclass 309)",
+      "name_ko": "해외 배우자 임시비자 (Subclass 309)",
+      "group": "family",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|primary",
+            "discretionary|secondary"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "309.6—Conditions\n309.611\nFirst entry must be made before a date specified by the Minister for the purpose.\n309.612\nIf the applicant meets the primary criteria, condition 8502 may be imposed.\n309.613\nIf the applicant meets the secondary criteria, either or both of conditions 8502 and 8515 may be imposed."
+    },
+    {
+      "subclass": "400",
+      "name_en": "Temporary Work (Short Stay Specialist) (Subclass 400)",
+      "name_ko": "Temporary Work (Short Stay Specialist) (Subclass 400)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8107",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8101",
+        "8107",
+        "8303",
+        "8503"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "400.6—Conditions\n400.611\nIf the applicant satisfied the primary criteria for the grant of a Subclass 400 visa:\n(a)conditions 8107 and 8303 must be imposed; and\n(b)condition 8503 may be imposed.\n400.612\nIf the applicant satisfied the secondary criteria for the grant of a Subclass 400 visa:\n(a)conditions 8101 and 8303 must be imposed; and\n(b)condition 8503 may be imposed."
+    },
+    {
+      "subclass": "403",
+      "name_en": "Temporary Work International Relations (Subclass 403)",
+      "name_ko": "국제관계·PALM 비자 (Subclass 403)",
+      "group": "work",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8107",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8110",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8611",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8106",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8301",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8522",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8525",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8526",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8576",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8578",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8106",
+        "8107",
+        "8110",
+        "8301",
+        "8303",
+        "8501",
+        "8502",
+        "8503",
+        "8516",
+        "8522",
+        "8525",
+        "8526",
+        "8576",
+        "8578",
+        "8611"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "403.6—Conditions\n403.611\n(1)This clause applies to an applicant who satisfies the primary criteria for the grant of:\n(a)a Subclass 403 visa in the Government Agreement stream; or\n(b)a Subclass 403 visa in the Foreign Government Agency stream; or\n(c)a Subclass 403 visa in the Privileges and Immunities stream.\n(2)The visa is subject to conditions 8107, 8303, 8501 and 8516.\n(3)Conditions 8301, 8502, 8503, 8525 and 8526 may be imposed.\n403.612\n(1)This clause applies to an applicant who satisfies the secondary criteria for the grant of a Subclass 403 visa.\n(2)The visa is subject to conditions 8303, 8501 and 8516.\n(3)Conditions 8106, 8301, 8502, 8503, 8522, 8525 and 8526 may be imposed.\n403.613\n(1)This clause applies to an applicant who satisfies the primary criteria for the grant of a Subclass 403 visa in the Domestic Worker (Diplomatic or Consular) stream.\n(2)The visa is subject to conditions 8110, 8303, 8501 and 8516.\n(3)Conditions 8301, 8502, 8503, 8525 and 8526 may be imposed.\n403.614\n(1)This clause applies to an applicant who satisfies the primary criteria for the grant of a Subclass 403 visa in the Mobility Arrangement for Talented Earlyprofessionals Scheme stream.\n(2)The visa is subject to conditions 8303, 8501 and 8516.\n(3)Conditions 8301, 8502, 8503, 8525 and 8526 may be imposed.\n403.617\n(1)This clause applies to an applicant who satisfies the primary criteria for the grant of a Subclass 403 visa in the Pacific Australia Labour Mobility stream.\n(2)The visa is subject to conditions 8303, 8501 and 8611.\n(3)Conditions 8301, 8502, 8503, 8516, 8525, 8576 and 8578 may be imposed."
+    },
+    {
+      "subclass": "405",
+      "name_en": "Investor Retirement (Subclass 405)",
+      "name_ko": "Investor Retirement (Subclass 405)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8104",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8301",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8522",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8525",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8526",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8104",
+        "8301",
+        "8303",
+        "8501",
+        "8502",
+        "8516",
+        "8522",
+        "8525",
+        "8526"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "405.6—Conditions\n405.611\nConditions 8104, 8501 and 8516 must be imposed.\n405.612\nAny 1 or more of conditions 8301, 8303, 8502, 8522, 8525 and 8526 may be imposed."
+    },
+    {
+      "subclass": "407",
+      "name_en": "Training Visa (Subclass 407)",
+      "name_ko": "연수 비자 (Subclass 407 Training)",
+      "group": "work",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8102",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8104",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8106",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8107",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8301",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8522",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8525",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8526",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8102",
+        "8104",
+        "8106",
+        "8107",
+        "8301",
+        "8303",
+        "8501",
+        "8502",
+        "8503",
+        "8516",
+        "8522",
+        "8525",
+        "8526"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "407.6—Conditions\n407.611\nIf the applicant is a primary applicant:\n(a)the visa is subject to conditions 8102, 8303, 8501 and 8516; and\n(b)conditions 8106, 8107, 8301, 8502, 8503, 8525 and 8526 may be imposed.\n407.612\nIf the applicant is a secondary applicant:\n(a)the visa is subject to conditions 8104, 8303 and 8501; and\n(b)conditions 8106, 8301, 8502, 8503, 8516, 8522, 8525 and 8526 may be imposed."
+    },
+    {
+      "subclass": "408",
+      "name_en": "Temporary Activity (Subclass 408)",
+      "name_ko": "임시활동 비자 (Subclass 408 Temporary Activity)",
+      "group": "work",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8107",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8109",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8106",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8114",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8301",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8522",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8525",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8526",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8106",
+        "8107",
+        "8109",
+        "8114",
+        "8301",
+        "8303",
+        "8501",
+        "8502",
+        "8503",
+        "8516",
+        "8522",
+        "8525",
+        "8526"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "408.6—Conditions\n408.611\nIf the applicant is a primary applicant:\n(a)the visa is subject to conditions 8107 and 8303; and\n(b)if the visa was granted on the basis that clause 408.229A (entertainment) applied to the applicant—the visa is subject to condition 8109; and\n(c)conditions 8106, 8114, 8301, 8501, 8502, 8503, 8516, 8525 and 8526 may be imposed.\n408.612\nIf the applicant is a secondary applicant:\n(a)the visa is subject to condition 8303; and\n(b)conditions 8106, 8301, 8501, 8502, 8503, 8516, 8522, 8525 and 8526 may be imposed."
+    },
+    {
+      "subclass": "410",
+      "name_en": "Retirement (Subclass 410)",
+      "name_ko": "Retirement (Subclass 410)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8301",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8522",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8525",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8526",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8301",
+        "8303",
+        "8501",
+        "8502",
+        "8503",
+        "8516",
+        "8522",
+        "8525",
+        "8526"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "410.6—Conditions\n410.612\nAny 1 or more of conditions 8301, 8303, 8501, 8502, 8503, 8516, 8522, 8525 and 8526 may be imposed.\nNote:There are no mandatory conditions."
+    },
+    {
+      "subclass": "417",
+      "name_en": "Working Holiday (Subclass 417)",
+      "name_ko": "워킹홀리데이 (Subclass 417)",
+      "group": "whm",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8547",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8548",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8106",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8107",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8301",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8522",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8525",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8526",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8106",
+        "8107",
+        "8301",
+        "8303",
+        "8501",
+        "8502",
+        "8503",
+        "8516",
+        "8522",
+        "8525",
+        "8526",
+        "8547",
+        "8548"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "417.6—Conditions\n417.611\nConditions 8547 and 8548.\n417.612\nAny 1 or more of conditions 8106, 8107, 8301, 8303, 8501, 8502, 8503, 8516, 8522, 8525 and 8526 may be imposed."
+    },
+    {
+      "subclass": "444",
+      "name_en": "Special Category (Subclass 444)",
+      "name_ko": "Special Category (Subclass 444)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "444.6—Conditions: Nil."
+    },
+    {
+      "subclass": "445",
+      "name_en": "Dependent Child (Subclass 445)",
+      "name_ko": "Dependent Child (Subclass 445)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "445.6—Conditions: Nil."
+    },
+    {
+      "subclass": "449",
+      "name_en": "Humanitarian Stay (Temporary) (Subclass 449)",
+      "name_ko": "Humanitarian Stay (Temporary) (Subclass 449)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8506",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8529",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8101",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8104",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8101",
+        "8104",
+        "8303",
+        "8506",
+        "8529"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "449.6—Conditions\n449.611\nCondition 8506.\n449.612\nCondition 8101 or 8104 may be imposed.\n449.612A\nCondition 8303 may be imposed.\n449.613\nIf the Minister is satisfied that it would be unreasonable to require an applicant to undergo assessment in relation to criterion 4007, condition 8529.\nNote:See subclauses 449.224(2) and 449.322(2)."
+    },
+    {
+      "subclass": "461",
+      "name_en": "New Zealand Citizen Family Relationship (Temporary) (Subclass 461)",
+      "name_ko": "New Zealand Citizen Family Relationship (Temporary) (Subclass 461)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8303",
+        "8501"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "461.6—Conditions\n461.611\nEither or both of conditions 8303 and 8501 may be imposed."
+    },
+    {
+      "subclass": "462",
+      "name_en": "Work and Holiday (Subclass 462)",
+      "name_ko": "취업관광 (Subclass 462)",
+      "group": "whm",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8547",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8548",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8540",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8303",
+        "8501",
+        "8503",
+        "8516",
+        "8540",
+        "8547",
+        "8548"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "462.6—Conditions\n462.611\nConditions 8547 and 8548.\n462.612\nAny 1 or more of conditions 8303, 8501, 8503, 8516 and 8540 may be imposed, unless an application is decided by the use of a computer program in accordance with an arrangement under section 495A of the Act."
+    },
+    {
+      "subclass": "476",
+      "name_en": "Skilled—Recognised Graduate (Subclass 476)",
+      "name_ko": "Skilled—Recognised Graduate (Subclass 476)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8502",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        },
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8502",
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "476.6—Conditions\n476.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before a date specified by the Minister for the purpose; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8502 may be imposed; and\n(c)condition 8515 may be imposed."
+    },
+    {
+      "subclass": "482",
+      "name_en": "Skills in Demand (Subclass 482)",
+      "name_ko": "고용주 스폰서 SID (Subclass 482)",
+      "group": "work",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8607",
+          "contexts": [
+            "mandatory|primary"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8303",
+        "8501",
+        "8607"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "482.6—Conditions\n482.611\nIf the applicant satisfies the primary criteria for the grant of the visa, condition 8607 must be imposed.\n482.612\nCondition 8501 must be imposed.\n482.613\nCondition 8303 may be imposed."
+    },
+    {
+      "subclass": "485",
+      "name_en": "Temporary Graduate (Subclass 485)",
+      "name_ko": "졸업생 비자 (Subclass 485)",
+      "group": "study",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8610",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|secondary"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8501",
+        "8515",
+        "8610"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "485.6—Conditions\n485.611\nCondition 8501 must be imposed.\n485.612\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before a date specified by the Minister for the purpose; and\n(b)condition 8515 may be imposed.\n485.613\n(1)If the applicant is granted a subsequent Subclass 485 (Temporary Graduate) visa in the PostHigher Education Work stream on the basis of meeting the requirements in clause 485.232, 485.233, 485.234 or 485.235, condition 8610 must be imposed.\n(2)If the applicant is granted a Subclass 485 (Temporary Graduate) visa on the basis of satisfying the secondary criteria in relation to a primary applicant mentioned in subclause (1), condition 8610 must be imposed."
+    },
+    {
+      "subclass": "489",
+      "name_en": "Skilled—Regional (Provisional) (Subclass 489)",
+      "name_ko": "Skilled—Regional (Provisional) (Subclass 489)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8539",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|primary"
+          ]
+        },
+        {
+          "code": "8549",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|primary",
+            "mandatory|primary+sponsored"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515",
+        "8539",
+        "8549"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "489.6—Conditions\n489.611\nIf the applicant who satisfied the primary criteria for the grant of the visa was nominated by a State or Territory government agency, condition 8539 must be imposed.\n489.612\nIf the applicant who satisfied the primary criteria for the grant of the visa was sponsored by a person, condition 8549 must be imposed.\n489.613\n(1)If condition 8539 was imposed on the visa held at the time of application by the applicant who satisfied the primary criteria for the grant of the visa in the Second Provisional Visa stream, condition 8539 must be imposed.\n(2)If:\n(a)an applicant is granted a Subclass 489 visa on the basis of satisfying the secondary criteria; and\n(b)the applicant who satisfied the primary criteria also holds another General Skilled Migration visa on which condition 8539 has been imposed;\ncondition 8539 must be imposed.\n489.614\n(1)If condition 8549 was imposed on the visa held at the time of application by the applicant who satisfied the primary criteria for the grant of the visa in the Second Provisional Visa stream, condition 8549 must be imposed.\n(2)If:\n(a)an applicant is granted a Subclass 489 visa on the basis of satisfying the secondary criteria; and\n(b)the applicant who satisfied the primary criteria also holds another General Skilled Migration visa on which condition 8549 has been imposed;\ncondition 8549 must be imposed.\n489.615\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before a date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed."
+    },
+    {
+      "subclass": "491",
+      "name_en": "Skilled Work Regional (Subclass 491)",
+      "name_ko": "지방 기술이민 (Subclass 491)",
+      "group": "regional",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8578",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8579",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8580",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8581",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515",
+        "8578",
+        "8579",
+        "8580",
+        "8581"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "491.6—Conditions\n491.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed.\n491.612\nConditions 8578, 8579, 8580 and 8581 must be imposed."
+    },
+    {
+      "subclass": "494",
+      "name_en": "Skilled Employer Sponsored Regional (Subclass 494)",
+      "name_ko": "지방 고용주 스폰서 (Subclass 494)",
+      "group": "regional",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8578",
+          "contexts": [
+            "mandatory|primary",
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8579",
+          "contexts": [
+            "mandatory|primary",
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8580",
+          "contexts": [
+            "mandatory|primary",
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8581",
+          "contexts": [
+            "mandatory|primary",
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8608",
+          "contexts": [
+            "mandatory|primary"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515",
+        "8578",
+        "8579",
+        "8580",
+        "8581",
+        "8608"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "494.6—Conditions\n494.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed.\n494.612\nIf the applicant satisfies the primary criteria for the grant of the visa, conditions 8578, 8579, 8580, 8581 and 8608 must be imposed.\n494.613\nIf the applicant satisfies the secondary criteria for the grant of the visa, the same conditions (other than condition 8608) that must be imposed on the visa held by the person who satisfies the primary criteria for the grant of the visa must be imposed."
+    },
+    {
+      "subclass": "500",
+      "name_en": "Student Visa (Subclass 500 · Primary & Secondary)",
+      "name_ko": "학생비자 (Subclass 500 · 주신청자/동반가족)",
+      "group": "study",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8104",
+          "contexts": [
+            "mandatory|secondary+all_cases"
+          ]
+        },
+        {
+          "code": "8105",
+          "contexts": [
+            "mandatory|primary+all_cases"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "mandatory|secondary+over_18"
+          ]
+        },
+        {
+          "code": "8202",
+          "contexts": [
+            "mandatory|primary+all_cases"
+          ]
+        },
+        {
+          "code": "8203",
+          "contexts": [
+            "mandatory|primary+iran_citizen"
+          ]
+        },
+        {
+          "code": "8204",
+          "contexts": [
+            "mandatory|primary+iran_citizen",
+            "mandatory|secondary+iran_citizen"
+          ]
+        },
+        {
+          "code": "8208",
+          "contexts": [
+            "mandatory|primary+all_cases",
+            "mandatory|secondary+all_cases"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|primary+all_cases",
+            "mandatory|secondary+all_cases"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "mandatory|primary+all_cases",
+            "mandatory|secondary+all_cases"
+          ]
+        },
+        {
+          "code": "8517",
+          "contexts": [
+            "mandatory|primary+all_cases"
+          ]
+        },
+        {
+          "code": "8518",
+          "contexts": [
+            "mandatory|secondary+under_18"
+          ]
+        },
+        {
+          "code": "8532",
+          "contexts": [
+            "mandatory|primary+all_cases"
+          ]
+        },
+        {
+          "code": "8533",
+          "contexts": [
+            "mandatory|primary+all_cases"
+          ]
+        },
+        {
+          "code": "8535",
+          "contexts": [
+            "discretionary|primary",
+            "mandatory|primary+dfat_defence"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8303",
+          "contexts": [
+            "discretionary|primary",
+            "discretionary|secondary"
+          ]
+        },
+        {
+          "code": "8534",
+          "contexts": [
+            "discretionary|primary",
+            "discretionary|secondary"
+          ]
+        },
+        {
+          "code": "8535",
+          "contexts": [
+            "discretionary|primary",
+            "mandatory|primary+dfat_defence"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8104",
+        "8105",
+        "8201",
+        "8202",
+        "8203",
+        "8204",
+        "8208",
+        "8303",
+        "8501",
+        "8516",
+        "8517",
+        "8518",
+        "8532",
+        "8533",
+        "8534",
+        "8535"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "500.6—Conditions\n500.611\n(1)If the applicant satisfies the primary criteria, the following conditions must be imposed:\n(a)in all cases, conditions 8105, 8202, 8501, 8516, 8517, 8532 and 8533;\n(aa)in all cases, condition 8208;\n(b)if the applicant is a citizen of Iran and intends to undertake a higher education course or a postgraduate research course, condition 8203;\n(c)if the applicant is a citizen of Iran and intends to undertake a course of study other than a higher education course or a postgraduate research course, condition 8204;\n(d)if the applicant is a Foreign Affairs student or Defence student, condition 8535.\n(2)If the applicant satisfies the primary criteria, the following conditions may be imposed:\n(a)if the applicant is provided with financial assistance by the Commonwealth or the government of a foreign country, condition 8535;\n(b)either or both of conditions 8303 and 8534.\n500.612\n(1)If the applicant satisfies the secondary criteria, the following conditions must be imposed:\n(a)in all cases, conditions 8104, 8208, 8501 and 8516;\n(b)if the applicant has not turned 18, condition 8518;\n(c)if the applicant has turned 18, condition 8201;\n(d)if the applicant is a citizen of Iran, condition 8204.\n(2)If the applicant satisfies the secondary criteria, conditions 8303 and 8534 may be imposed."
+    },
+    {
+      "subclass": "590",
+      "name_en": "Student Guardian (Subclass 590)",
+      "name_ko": "학생 가디언 비자 (Subclass 590)",
+      "group": "study",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8106",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8502",
+          "contexts": [
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8534",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8537",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8538",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8101",
+        "8106",
+        "8201",
+        "8501",
+        "8502",
+        "8516",
+        "8534",
+        "8537",
+        "8538"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "590.6—Conditions\n590.611\n(1)In the case of a visa granted to an applicant who meets the requirements of subclause 590.211(2) or (3)—conditions 8101, 8201, 8501, 8516, 8534, 8537 and 8538 must be imposed.\n(2)In the case of a visa granted to an applicant who meets the requirements of subclause 590.211(4)—conditions 8106, 8201, 8501, 8516, 8534, 8537 and 8538 must be imposed.\n590.612\nIn the case of a visa granted to an applicant who satisfies the secondary criteria for the grant of the visa—conditions 8101, 8501, 8502 and 8516 must be imposed."
+    },
+    {
+      "subclass": "600",
+      "name_en": "Visitor Visa (Subclass 600 · 28 Nov 2026 Reform)",
+      "name_ko": "관광·방문 비자 (Subclass 600 · 11.28 개정 주의)",
+      "group": "visitor",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|sponsored"
+          ]
+        },
+        {
+          "code": "8115",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|sponsored"
+          ]
+        },
+        {
+          "code": "8207",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general",
+            "mandatory|sponsored"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8527",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8530",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8531",
+          "contexts": [
+            "mandatory|general",
+            "mandatory|sponsored"
+          ]
+        },
+        {
+          "code": "8572",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8573",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8609",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8501",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general",
+            "mandatory|general",
+            "mandatory|sponsored"
+          ]
+        },
+        {
+          "code": "8558",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8101",
+        "8115",
+        "8201",
+        "8207",
+        "8501",
+        "8503",
+        "8516",
+        "8527",
+        "8530",
+        "8531",
+        "8558",
+        "8572",
+        "8573",
+        "8609"
+      ],
+      "reform_note_ko": "⚡ 2026.11.28 시행 개정(F2026L01503): 2026년 11월 28일 이후 접수분부터 Condition 8503(No Further Stay)이 모든 관광·상용(600)·ETA(601)·eVisitor(651)에 강제 부착됩니다.",
+      "reform_note_en": "⚡ 28 Nov 2026 Reform (F2026L01503): Applications lodged on or after 28 Nov 2026 carry MANDATORY Condition 8503 across Visitor (600 Tourist & Business), ETA (601), and eVisitor (651).",
+      "statutory_div6_text": "600.6—Conditions\n600.611\n(1)Subclauses (2) to (4) apply if the visa is a Subclass 600 visa in the Tourist stream.\n(2)If the sponsorship described in clause 600.224 has been approved by the Minister, conditions 8101, 8201, 8503, and 8531 must be imposed.\n(3)If the applicant was not sponsored in accordance with clause 600.224, and subclause (4) does not apply:\n(a)conditions 8101 and 8201 must be imposed; and\n(b)conditions 8501, 8503 and 8558 may be imposed.\n(4)If:\n(a)the applicant is suffering financial hardship as a result of changes in the applicant’s circumstances after entering Australia; and\n(b)the applicant, or a member of the applicant’s immediate family, is likely to become a charge on the Commonwealth, a State, a Territory or a public authority in Australia; and\n(c)for reasons beyond the applicant’s control, the applicant, or a member of the applicant’s immediate family, cannot leave Australia; and\n(d)the applicant has compelling personal reasons to work in Australia;\ncondition 8201 must be imposed and condition 8503 may be imposed.\n600.612\nIf the visa is a Subclass 600 visa in the Sponsored Family stream, conditions 8101, 8201, 8503, and 8531 must be imposed.\n600.613\nIf the visa is a Subclass 600 visa in the Business Visitor stream:\n(a)conditions 8115 and 8201 must be imposed; and\n(b)condition 8503 may be imposed.\n600.614\nIf the visa is a Subclass 600 visa in the Approved Destination Status stream, conditions 8101, 8207, 8503 and 8530 must be imposed.\n600.615\nIf the visa is a Subclass 600 visa in the Frequent Traveller stream, conditions 8115, 8201, 8503, 8516, 8527, 8531, 8572, 8573 and 8609 must be imposed."
+    },
+    {
+      "subclass": "601",
+      "name_en": "Electronic Travel Authority (Subclass 601 · 28 Nov Reform)",
+      "name_ko": "전자여행허가 ETA (Subclass 601 · 11.28 개정 주의)",
+      "group": "visitor",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8115",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8527",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8528",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8115",
+        "8201",
+        "8527",
+        "8528"
+      ],
+      "reform_note_ko": "⚡ 2026.11.28 시행 개정(F2026L01503): 2026년 11월 28일 이후 접수분부터 Condition 8503(No Further Stay)이 모든 관광·상용(600)·ETA(601)·eVisitor(651)에 강제 부착됩니다.",
+      "reform_note_en": "⚡ 28 Nov 2026 Reform (F2026L01503): Applications lodged on or after 28 Nov 2026 carry MANDATORY Condition 8503 across Visitor (600 Tourist & Business), ETA (601), and eVisitor (651).",
+      "statutory_div6_text": "601.6—Conditions\n601.611\nConditions 8115, 8201, 8527 and 8528 must be imposed."
+    },
+    {
+      "subclass": "602",
+      "name_en": "Medical Treatment (Subclass 602)",
+      "name_ko": "Medical Treatment (Subclass 602)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8503",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8101",
+        "8201",
+        "8503"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "602.6—Conditions\n602.611\n(1)If:\n(a)the applicant holds a Subclass 602 visa on the basis of satisfying the primary criteria; and\n(b)the requirements described in subclause 602.212(7) have been met in relation to the applicant;\ncondition 8201 must be imposed.\n(2)If:\n(a)the applicant holds a Subclass 602 visa on the basis of satisfying the secondary criteria; and\n(b)the requirements described in clause 602.314 have been met in relation to the applicant;\ncondition 8201 must be imposed.\n(3)In any other case, conditions 8101 and 8201 must be imposed.\n602.612\nCondition 8503 may be imposed."
+    },
+    {
+      "subclass": "651",
+      "name_en": "eVisitor (Subclass 651 · 28 Nov Reform)",
+      "name_ko": "eVisitor (Subclass 651 · 11.28 개정 주의)",
+      "group": "visitor",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8115",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8527",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8528",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8115",
+        "8201",
+        "8527",
+        "8528"
+      ],
+      "reform_note_ko": "⚡ 2026.11.28 시행 개정(F2026L01503): 2026년 11월 28일 이후 접수분부터 Condition 8503(No Further Stay)이 모든 관광·상용(600)·ETA(601)·eVisitor(651)에 강제 부착됩니다.",
+      "reform_note_en": "⚡ 28 Nov 2026 Reform (F2026L01503): Applications lodged on or after 28 Nov 2026 carry MANDATORY Condition 8503 across Visitor (600 Tourist & Business), ETA (601), and eVisitor (651).",
+      "statutory_div6_text": "651.6—Conditions\n651.611\nConditions 8115, 8201, 8527 and 8528 must be imposed."
+    },
+    {
+      "subclass": "771",
+      "name_en": "Transit (Subclass 771)",
+      "name_ko": "Transit (Subclass 771)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8201",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [
+        {
+          "code": "8501",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8514",
+          "contexts": [
+            "discretionary|general"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "discretionary|general"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8101",
+        "8201",
+        "8501",
+        "8514",
+        "8516"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "771.6—Conditions\n771.611\nThe holder must enter on or before the date specified by the Minister for the purpose.\n771.612\nConditions 8101 and 8201.\n771.613\nAny 1 or more of conditions 8501, 8514 and 8516 may be imposed."
+    },
+    {
+      "subclass": "773",
+      "name_en": "Border (Subclass 773)",
+      "name_ko": "Border (Subclass 773)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "773.6—Conditions\n773.611\nConditions applicable to the visa for which the applicant is apparently eligible."
+    },
+    {
+      "subclass": "785",
+      "name_en": "Temporary Protection (Subclass 785)",
+      "name_ko": "Temporary Protection (Subclass 785)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8503",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8565",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8570",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8503",
+        "8565",
+        "8570"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "785.6—Conditions\n785.611\nConditions 8503, 8570 and 8565."
+    },
+    {
+      "subclass": "786",
+      "name_en": "Temporary (Humanitarian Concern) (Subclass 786)",
+      "name_ko": "Temporary (Humanitarian Concern) (Subclass 786)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "786.6—Conditions\n786.611\nThe holder must notify Immigration of any change in the holder’s address at least 2 working days before the change.\n786.612\nThe holder must not become involved in any disruptive activity, or violence, that may be a threat to the welfare of the Australian community or a group in the Australian community."
+    },
+    {
+      "subclass": "790",
+      "name_en": "Safe Haven Enterprise (Subclass 790)",
+      "name_ko": "Safe Haven Enterprise (Subclass 790)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8565",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8570",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8565",
+        "8570"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "790.6—Conditions\n790.611\nConditions 8565 and 8570.\nNote:There is nothing in the Act or these regulations which restricts the ability of the holder of the visa to study or work as he or she sees fit."
+    },
+    {
+      "subclass": "800",
+      "name_en": "Territorial Asylum (Subclass 800)",
+      "name_ko": "Territorial Asylum (Subclass 800)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "800.6—Conditions: Nil."
+    },
+    {
+      "subclass": "801",
+      "name_en": "Partner (Subclass 801)",
+      "name_ko": "Partner (Subclass 801)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "801.6—Conditions: Nil."
+    },
+    {
+      "subclass": "802",
+      "name_en": "Child (Subclass 802)",
+      "name_ko": "Child (Subclass 802)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "802.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "804",
+      "name_en": "Aged Parent (Subclass 804)",
+      "name_ko": "Aged Parent (Subclass 804)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "804.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "820",
+      "name_en": "Partner Onshore Temporary (Subclass 820)",
+      "name_ko": "호주 내 배우자 임시비자 (Subclass 820)",
+      "group": "family",
+      "popular": true,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "820.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "835",
+      "name_en": "Remaining Relative (Subclass 835)",
+      "name_ko": "Remaining Relative (Subclass 835)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "835.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "836",
+      "name_en": "Carer (Subclass 836)",
+      "name_ko": "Carer (Subclass 836)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "836.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "837",
+      "name_en": "Orphan Relative (Subclass 837)",
+      "name_ko": "Orphan Relative (Subclass 837)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "837.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "838",
+      "name_en": "Aged Dependent Relative (Subclass 838)",
+      "name_ko": "Aged Dependent Relative (Subclass 838)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "838.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "851",
+      "name_en": "Resolution of Status (Subclass 851)",
+      "name_ko": "Resolution of Status (Subclass 851)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "851.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "852",
+      "name_en": "Referred Stay (Permanent) (Subclass 852)",
+      "name_ko": "Referred Stay (Permanent) (Subclass 852)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "852.6—Conditions\n852.611\nIf the applicant is outside Australia when the visa is granted, first entry must be made before a date specified for this clause by the Minister."
+    },
+    {
+      "subclass": "858",
+      "name_en": "National Innovation Visa (Subclass 858)",
+      "name_ko": "국가혁신비자 NIV (Subclass 858)",
+      "group": "pr",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "858.6—Conditions\n858.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed."
+    },
+    {
+      "subclass": "864",
+      "name_en": "Contributory Aged Parent (Subclass 864)",
+      "name_ko": "Contributory Aged Parent (Subclass 864)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "864.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "866",
+      "name_en": "Protection (Subclass 866)",
+      "name_ko": "Protection (Subclass 866)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8559",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8559"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "866.6—Conditions\n866.611\nCondition 8559."
+    },
+    {
+      "subclass": "870",
+      "name_en": "Sponsored Parent (Temporary) (Subclass 870)",
+      "name_ko": "장기 임시부모 초청 (Subclass 870)",
+      "group": "family",
+      "popular": true,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8103",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8303",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8501",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8531",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8564",
+          "contexts": [
+            "mandatory|general"
+          ]
+        },
+        {
+          "code": "8609",
+          "contexts": [
+            "mandatory|general"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8103",
+        "8303",
+        "8501",
+        "8531",
+        "8564",
+        "8609"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "870.6—Conditions\n870.611\nThe visa is subject to conditions 8103, 8303, 8501, 8531, 8564 and 8609."
+    },
+    {
+      "subclass": "884",
+      "name_en": "Contributory Aged Parent (Temporary) (Subclass 884)",
+      "name_ko": "Contributory Aged Parent (Temporary) (Subclass 884)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "884.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "887",
+      "name_en": "Skilled—Regional (Subclass 887)",
+      "name_ko": "Skilled—Regional (Subclass 887)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": true,
+      "dha_dropdown_hidden": false,
+      "mandatory": [],
+      "discretionary": [],
+      "all_codes": [],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "887.6—Conditions:   Nil."
+    },
+    {
+      "subclass": "888",
+      "name_en": "Business Innovation and Investment (Permanent) (Subclass 888)",
+      "name_ko": "Business Innovation and Investment (Permanent) (Subclass 888)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": true,
+      "mandatory": [],
+      "discretionary": [
+        {
+          "code": "8515",
+          "contexts": [
+            "discretionary|secondary"
+          ]
+        }
+      ],
+      "all_codes": [
+        "8515"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "888.6—Conditions\n888.611\nIf the applicant is outside Australia when the visa is granted:\n(a)first entry must be made before the date specified by the Minister; and\n(b)if the applicant satisfies the secondary criteria for the grant of the visa, condition 8515 may be imposed."
+    },
+    {
+      "subclass": "988",
+      "name_en": "Maritime Crew (Subclass 988)",
+      "name_ko": "Maritime Crew (Subclass 988)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8101",
+          "contexts": [
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8113",
+          "contexts": [
+            "mandatory|primary"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8101",
+        "8113"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "988.6—Conditions\n988.611\nFor an applicant who satisfies the primary criteria, condition 8113.\n988.612\nFor an applicant who satisfies the secondary criteria, condition 8101."
+    },
+    {
+      "subclass": "995",
+      "name_en": "Diplomatic (Temporary) (Subclass 995)",
+      "name_ko": "Diplomatic (Temporary) (Subclass 995)",
+      "group": "other",
+      "popular": false,
+      "is_nil_only": false,
+      "dha_dropdown_hidden": false,
+      "mandatory": [
+        {
+          "code": "8502",
+          "contexts": [
+            "mandatory|secondary"
+          ]
+        },
+        {
+          "code": "8516",
+          "contexts": [
+            "mandatory|primary",
+            "mandatory|secondary"
+          ]
+        }
+      ],
+      "discretionary": [],
+      "all_codes": [
+        "8502",
+        "8516"
+      ],
+      "reform_note_ko": "",
+      "reform_note_en": "",
+      "statutory_div6_text": "995.6—Conditions\n995.611\nIf the applicant satisfies the primary criteria, condition 8516.\n995.612\nIf the applicant satisfies the secondary criteria, conditions 8502 and 8516."
+    }
+  ]
+}

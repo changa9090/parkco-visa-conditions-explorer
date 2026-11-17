@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://changa9090.github.io/parkco-visa-conditions-explorer/sitemap.xml
